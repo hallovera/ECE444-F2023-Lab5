@@ -2,6 +2,10 @@
 
 Clone of repo: [https://github.com/mjhea0/flaskr-tdd](https://github.com/mjhea0/flaskr-tdd)
 
+## Group Project tests done by me
+
+ * test_login, test_join
+
 ## Pros of Test-Driven Design
 
 TDD helps improve code quality. Having the end requirements of a piece of code spelled out forces 
